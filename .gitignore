@@ -1,0 +1,12 @@
+# Archivos de log
+*.log
+
+# Configuración de entorno y credenciales
+.env
+
+# Archivos temporales
+notas-temporales.txt
+
+# Configuración de editores e IDEs
+.vscode/
+.idea/
