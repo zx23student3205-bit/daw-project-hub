@@ -65,3 +65,11 @@ footer {
 .parrafo-colaboracion {
     border-left-color: #d97706; /* Naranja/Ámbar */
 }
+
+/* Estilos para los subtítulos h3 */
+h3 {
+    font-size: 1.2rem;
+    color: #1e293b;
+    margin-top: 25px;
+    margin-bottom: 8px;
+}
