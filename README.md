@@ -10,3 +10,4 @@ Realizar varios commits pequeños, atómicos y coherentes presenta múltiples ve
 * **Mensajes descriptivos:** Obliga a documentar la evolución del desarrollo paso a paso, manteniendo una bitácora clara de la historia del proyecto.
 
 * Actualiza la descripción desde GitHub.
+* Añadir cosas
